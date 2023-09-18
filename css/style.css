@@ -188,9 +188,6 @@
             .youtube-box span {
                 margin-left: 1px;
             }
-            .header-box img {
-                margin-left: 40%;
-            }
             .header-box, .youtube-box, .hotissue, .whaton img, .monthly-box, .vduck {
                 position: relative;
                 display: block;
@@ -213,7 +210,6 @@
             .txtbox div {
                 position: absolute;
                 top: 25%;
-                left: 28%;
             }
             .vduck a {
                 width: 50vw;
